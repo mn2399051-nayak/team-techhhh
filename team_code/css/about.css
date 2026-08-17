@@ -35,6 +35,7 @@
 
 
 /* COMMIT 2 START: */
+
 .members-section {
   padding: 2rem 0 5rem;
 }
@@ -137,12 +138,11 @@
   font-size: 0.75rem;
   color: var(--text-muted);
 }
-
-/* COMMIT 2 END: */
-
+/* === COMMIT 2: END === */
 
 
-/* COMMIT 3 START: */
+/* === COMMIT 3: START === */
+/* Core Values & Timeline Box */
 .values-section {
   padding: 4rem 0 6rem;
 }
@@ -186,5 +186,6 @@
   color: var(--text-muted);
   font-size: 0.9rem;
 }
+/* === COMMIT 3: END === */
 
 /*  COMMIT 3 END: */

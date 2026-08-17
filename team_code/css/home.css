@@ -1,5 +1,3 @@
- /* COMMIT 1 START:  */
-
 .hero-section {
   padding: 6rem 0 4rem;
   text-align: center;
@@ -42,12 +40,11 @@
   gap: 1rem;
 }
 
-/* COMMIT 1 END:  */
+/* === COMMIT 1: END === */
 
 
-
-/* COMMIT 2 START: */
-
+/* === COMMIT 2: START === */
+/* Stats Grid & Feature Cards */
 .stats-section {
   padding: 3rem 0;
 }
@@ -133,11 +130,12 @@
   color: var(--text-muted);
   font-size: 0.95rem;
 }
-/* COMMIT 2 END: */
+
+/* === COMMIT 2: END === */
 
 
-
-/* COMMIT 3 START: */
+/* === COMMIT 3: START === */
+/* CTA Section Styling */
 .cta-section {
   padding: 4rem 0 6rem;
 }
@@ -181,4 +179,4 @@
   }
 }
 
-/*  COMMIT 3 END: */
+/* === COMMIT 3: END === */
